@@ -1,6 +1,6 @@
 # Lançamentos: Monitor de Rifas 🎟️
 
-Bem-vindo ao repositório oficial de distribuições do **Monitor de Rifas - @minisdaana**.
+Bem-vindo ao repositório oficial de distribuições do **Monitor de Rifas**.
 
 ## 📥 Como Instalar
 1. Vá até a seção [Releases](https://github.com/pHgon/raffle-monitor-releases/releases).
